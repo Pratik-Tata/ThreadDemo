@@ -3,6 +3,7 @@ package org.example;
 public class WaitAndNotifyDemo {
     public static void runDemo(){
         Object o = new Object();
+        Object q = new Object();
 
         new Thread(()->{
             synchronized (o){
