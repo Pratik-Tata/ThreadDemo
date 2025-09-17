@@ -12,6 +12,7 @@ public class Main {
         //WaitAndNotifyDemo.runDemo();
         WaitAndNotifyDemo.runDemo();
         WaitAndNotifyDemo.runDemo();
+        WaitAndNotifyDemo.runDemo();
     }
 
 }
