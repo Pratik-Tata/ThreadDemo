@@ -6,6 +6,5 @@ public class Semaphores {
     public Semaphores(){
         System.out.println("dummy");
         System.out.println("from pratik one");
-        System.out.println("from pratik one again");
     }
 }
